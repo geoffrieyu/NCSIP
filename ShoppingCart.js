@@ -66,7 +66,7 @@ function ShowCart(){
     if(numberOf1GB != 0 || numberOf1GBTemp != 0)
         result.push(numberOf1GB + numberOf1GBTemp + "x " + gb1ProductName);
     if(hasPromoCode)
-        result.push(discountCode + "PROMOCODE ");
+        result.push(discountCode + " PROMOCODE ");
 
     document.getElementById("Cart").innerHTML = result.join("<br />");    
     document.getElementById("Amount").innerHTML = "Total Amount Is : $" + totalAmount.toFixed(2);
