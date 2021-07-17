@@ -1,0 +1,12 @@
+HOW TO RUN:
+Click the Main.html to run the project
+
+PROJECT:
+Choose from the option 1-7:
+1: Adding Unlimited 1GB in the cart
+2: Adding Unlimited 2GB in the cart
+3: Adding Unlimited 5GB in the cart
+4: Adding 1 GB Data-pack in the cart
+5: Adding I<3AMAYSIM Promocode in the cart
+6: Finish Adding to cart and compute for the total amount
+7: Start again from the beggining / shop again
